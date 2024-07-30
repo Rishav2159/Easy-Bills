@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Table from "react-bootstrap/Table";
 import Button from "react-bootstrap/Button";
 import { BiTrash } from "react-icons/bi";
-import EditableField from "../EditableField";
+import EditableField from "./EditableField";
 
 const InvoiceItem = ({
   items,
